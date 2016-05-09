@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Aileen Michelle
-    url: 'https://www.youtube.com/channel/UC19qGvGGqhvX4wKA1L5ElVg'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=IAb4fqb1ELA'
+inLanguage: en
 keywords:
   - duration
   - aileen
@@ -21,7 +16,13 @@ keywords:
   - film
   - roman
 description: You can find my other projects at www.AileenMichelle.com
-inLanguage: en
+datePublished: '2016-05-09T20:39:24.707Z'
+dateModified: '2016-05-09T20:39:16.987Z'
+author:
+  - name: Aileen Michelle
+    url: 'https://www.youtube.com/channel/UC19qGvGGqhvX4wKA1L5ElVg'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=IAb4fqb1ELA&feature=applinks'
     type: ios
@@ -59,15 +60,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=IAb4fqb1ELA'
 title: Aileen Michelle Demo Reel - April 2016 Portfolio
-datePublished: '2016-05-09T20:38:36.101Z'
-dateModified: '2016-05-09T20:37:48.290Z'
-starred: false
 sourcePath: _posts/2016-05-09-aileen-michelle-demo-reel-april-2016-portfolio.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: true
 _type: VideoObject
 _context: 'http://schema.org'
 
