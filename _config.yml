@@ -1,0 +1,28 @@
+name: Aileen Michelle
+favicon: null
+layout_spectrum: 0.9259257281664759
+typography_spectrum: 0.5447052614763379
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.06941125448793173
+  lightness: 0.3772808962967247
+  saturation: 0.2613823174033314
+  rhythmicContrast: 0.5651893131434917
+purpose: []
